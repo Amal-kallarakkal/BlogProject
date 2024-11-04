@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@100xdevs/medium-common": "^1.0.0",
+    "i": "^0.3.7"
+  }
+}
